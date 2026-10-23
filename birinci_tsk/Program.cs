@@ -5,7 +5,7 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Firuze
+namespace Birinci_tsk
 {
     internal class Program
     {
